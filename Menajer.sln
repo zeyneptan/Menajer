@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menajer", "Menajer\Menajer.csproj", "{433657E1-C778-4736-AB63-4175690718AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433657E1-C778-4736-AB63-4175690718AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433657E1-C778-4736-AB63-4175690718AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433657E1-C778-4736-AB63-4175690718AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433657E1-C778-4736-AB63-4175690718AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B17304-8558-48F0-B444-BB7107645A94}
+	EndGlobalSection
+EndGlobal
